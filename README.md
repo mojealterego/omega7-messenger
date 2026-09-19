@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="./assets/social-preview.svg" alt="OMEGA7 MESSENGER — project visual" width="100%">
+
+</div>
+
+---
+
 # Ω7 Messenger
 
 Final source package **0.8.1** for the Ω7 Messenger Android project.
